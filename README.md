@@ -2,17 +2,17 @@
 
   <!-- DYNAMIC ANIMATED HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Yonnix;Software+%26+Embedded+Systems+Engineer;EPITA+Student+(Major+GISTRE);Ex-Front-End+Intern+%40+Lucca;Actively+seeking+my+next+opportunity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Sacha+Wizen;Software+%26+Embedded+Systems+Engineer;EPITA+Student+(Major+GISTRE);Ex-Front-End+Intern+%40+Lucca;Actively+seeking+my+next+opportunity" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Computer Science Engineering Student @ EPITA (Major GISTRE) • Ex-Software Engineer Intern @ Lucca</strong>
+    <strong>Sacha Wizen</strong> • Computer Science Engineering Student @ <strong>EPITA (Major GISTRE)</strong> • Ex-Software Engineer Intern @ <strong>Lucca</strong>
   </p>
 
   <!-- QUICK ACTION / CONTACT BADGES -->
   <p align="center">
     <a href="https://linkedin.com/in/sacha-wizen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:wizen.sacha.sja@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-10B981?style=for-the-badge" alt="Status"/>
   </p>
 
@@ -28,7 +28,7 @@ My background bridges two worlds:
 - **Low-level & Embedded Rigor**: Real-time operating systems, embedded architectures, Linux kernel/driver fundamentals, and performant C/C++ engineering through EPITA's intensive curriculum.
 - **Production Software Experience**: 6 months at **Lucca**, contributing to modern enterprise SaaS frontend applications with high code quality, component design, and agile workflows.
 
-🎯 **What I'm Looking For**: Actively seeking an **Internship / Apprenticeship / End-of-Studies Internship (PFE)** in Embedded Systems, Systems Programming, or Full-Stack/Software Engineering.
+🎯 **What I'm Looking For**: Actively seeking an **Internship / Apprenticeship / End-of-Studies Internship (PFE)** in Software Engineering, Full-Stack/Front-End, or Systems Programming.
 
 ---
 
@@ -84,12 +84,12 @@ My background bridges two worlds:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yonnix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Yonnix Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yonnix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Sacha's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonnix&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonnix&theme=tokyonight&hide_border=true" alt="Yonnix Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonnix&theme=tokyonight&hide_border=true" alt="Sacha's Streak" />
 </p>
 
 ---
